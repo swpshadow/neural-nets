@@ -1,0 +1,1 @@
+This is the takehome final for the neural networks class for the fall of 2021. The code is very rushed and not everything was answered as it was completed in about 24 hours. This takehome work was given knowing we would have little time to complete it and to just answer the questions we could. 
